@@ -15,6 +15,7 @@ document.querySelector('.last-para').innerText = `Tutorials by industry experts
           Community forum 
           Flashcard decks
           New videos every week
-        `;
-document.querySelector('p>a:first-child').textContent = `CodeTribe`;
-document.querySelector('p>a:last-child').textContent = `Moropane Kutullo Innocent and https://ikcracker.github.io/Intro-to-HTML/`;
+
+document.querySelector('footer>p>a:first-child').textContent = `CodeTribe`;
+document.querySelector('footer>p>a:last-child').textContent = `Moropane Kutullo Innocent and https://ikcracker.github.io/Intro-to-HTML/`;
+
